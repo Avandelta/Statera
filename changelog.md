@@ -26,3 +26,7 @@
 
 * Смена модификации Discord Rich Presence на CraftPresence
 * Добавлена конфигурация CraftPresence
+
+## 1.0.3.1
+
+* Обновлена конфигурация CraftPresence
