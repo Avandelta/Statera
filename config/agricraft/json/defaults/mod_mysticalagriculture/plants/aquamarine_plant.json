@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/aquamarine_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:aquamarine_plant",
   "plant_name": "Аквамариновая культура",
   "seed_name": "Семена аквамарина",

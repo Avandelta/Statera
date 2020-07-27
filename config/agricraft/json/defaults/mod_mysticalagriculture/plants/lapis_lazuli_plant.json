@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/lapis_lazuli_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:lapis_lazuli_plant",
   "plant_name": "Лазуритовая культура",
   "seed_name": "Семена лазурита",

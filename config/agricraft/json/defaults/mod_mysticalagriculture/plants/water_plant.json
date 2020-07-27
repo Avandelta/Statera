@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/water_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:water_plant",
   "plant_name": "Водяная культура",
   "seed_name": "Семена воды",

@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/wither_skeleton_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:wither_skeleton_plant",
   "plant_name": "Культура скелета-иссушителя",
   "seed_name": "Семена скелета-иссушителя",

@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/ghast_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:ghast_plant",
   "plant_name": "Культура гаста",
   "seed_name": "Семена гаста",

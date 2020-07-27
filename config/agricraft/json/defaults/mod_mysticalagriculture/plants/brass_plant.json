@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/brass_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:brass_plant",
   "plant_name": "Латунная культура",
   "seed_name": "Семена латуни",

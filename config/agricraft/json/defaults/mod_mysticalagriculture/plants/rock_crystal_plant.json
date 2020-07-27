@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/rock_crystal_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:rock_crystal_plant",
   "plant_name": "Культура горного хрусталя",
   "seed_name": "Семена горного хрусталя",

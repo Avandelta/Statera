@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/nether_quartz_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:nether_quartz_plant",
   "plant_name": "Культура адского кварца",
   "seed_name": "Семена адского кварца",

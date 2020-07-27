@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/enderman_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:enderman_plant",
   "plant_name": "Культура эндермена",
   "seed_name": "Семена эндермена",

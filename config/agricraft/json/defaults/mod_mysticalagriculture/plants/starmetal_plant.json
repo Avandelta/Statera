@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/starmetal_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:starmetal_plant",
   "plant_name": "Культура звёздного металла",
   "seed_name": "Семена звёздного металла",

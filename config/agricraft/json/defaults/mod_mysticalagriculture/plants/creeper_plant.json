@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/creeper_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:creeper_plant",
   "plant_name": "Культура крипера",
   "seed_name": "Семена крипера",

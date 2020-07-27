@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/saltpeter_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:saltpeter_plant",
   "plant_name": "Селитровая культура",
   "seed_name": "Семена селитры",

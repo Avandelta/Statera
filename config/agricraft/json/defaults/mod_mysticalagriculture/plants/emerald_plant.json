@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/emerald_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:emerald_plant",
   "plant_name": "Изумрудная культура",
   "seed_name": "Семена культура",

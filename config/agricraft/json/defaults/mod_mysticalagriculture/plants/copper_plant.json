@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/copper_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:copper_plant",
   "plant_name": "Медная культура",
   "seed_name": "Семена медной культуры",

@@ -36,7 +36,7 @@
       {
         "min": 2,
         "max": 4,
-        "chance": 0.90,
+        "chance": 0.9,
         "required": true,
         "item": "minecraft:beetroot",
         "meta": 0,

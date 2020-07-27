@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/aluminum_brass_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:aluminum_brass_plant",
   "plant_name": "Культура алюминиевой латуни",
   "seed_name": "Семена алюминиевой латуни",

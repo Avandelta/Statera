@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/sheep_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:sheep_plant",
   "plant_name": "Овечья культура",
   "seed_name": "Семена овцы",
