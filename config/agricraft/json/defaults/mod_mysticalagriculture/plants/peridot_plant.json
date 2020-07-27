@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/plants/peridot_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "mysticalagriculture:peridot_plant",
   "plant_name": "Peridot",
   "seed_name": "Peridot Seeds",
@@ -29,6 +29,8 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
   "products": {
     "products": [
       {
@@ -51,8 +53,7 @@
     "soils": [
       "farmland_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "cross",

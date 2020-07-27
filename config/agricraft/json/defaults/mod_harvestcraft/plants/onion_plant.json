@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/onion_plant.json",
   "enabled": true,
   "id": "harvestcraft:onion_plant",
-  "plant_name": "Onion",
-  "seed_name": "Onion Seeds",
+  "plant_name": "Лук",
+  "seed_name": "Семена лука",
   "seed_items": [
     {
       "item": "harvestcraft:onionseeditem",

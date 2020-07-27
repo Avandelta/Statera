@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/basalt_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:basalt_plant",
-  "plant_name": "Basalt",
-  "seed_name": "Basalt Seeds",
+  "plant_name": "Базальтовая культура",
+  "seed_name": "Семена базальта",
   "seed_items": [
     {
       "item": "mysticalagriculture:basalt_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Basalt Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
@@ -29,6 +29,8 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
   "products": {
     "products": [
       {
@@ -51,8 +53,7 @@
     "soils": [
       "farmland_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "cross",

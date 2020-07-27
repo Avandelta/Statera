@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Cranberry Seeds."
+    "default": "Клюква - это подрод цветковых растений, относящихся к семейству вересковые. Он представлен вечнозелеными стелющимися кустарниками, в дикой природе встречающимися в Северном полушарии."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
@@ -36,7 +36,7 @@
       {
         "min": 1,
         "max": 5,
-        "chance": 0.9,
+        "chance": 0.875,
         "required": true,
         "item": "harvestcraft:cranberryitem",
         "meta": 0,

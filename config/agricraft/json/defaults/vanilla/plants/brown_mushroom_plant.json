@@ -2,8 +2,8 @@
   "path": "vanilla/plants/brown_mushroom_plant.json",
   "enabled": true,
   "id": "vanilla:brown_mushroom_plant",
-  "plant_name": "Brown Mushroom",
-  "seed_name": "Brown Mushroom Spores",
+  "plant_name": "Коричневый гриб",
+  "seed_name": "Споры коричневого гриба",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
@@ -28,7 +28,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "A simple decomposer."
+    "default": "Коричневый гриб встречается в лесах достаточно часто и отличается вкусной и ароматной мякотью, поэтому высоко ценится у грибников. Однако нужно уметь правильно отличить съедобный гриб от несъедобного. "
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
@@ -46,7 +46,7 @@
       {
         "min": 2,
         "max": 5,
-        "chance": 1.0,
+        "chance": 0.95,
         "required": true,
         "item": "minecraft:brown_mushroom",
         "meta": 0,
@@ -58,8 +58,8 @@
     ]
   },
   "requirement": {
-    "min_light": 0,
-    "max_light": 10,
+    "min_light": 2,
+    "max_light": 12,
     "soils": [
       "mycelium_soil"
     ],

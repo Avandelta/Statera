@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/waterchestnut_plant.json",
   "enabled": true,
   "id": "harvestcraft:waterchestnut_plant",
-  "plant_name": "Water Chestnut",
-  "seed_name": "Water Chestnut Seeds",
+  "plant_name": "Водяной орех",
+  "seed_name": "Семена водяного ореха",
   "seed_items": [
     {
       "item": "harvestcraft:waterchestnutseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Water Chestnut Seeds."
+    "default": "Водяной орех - однолетнее растение, растущее в воде. Гибкий стебель ко дну прикрепляется прошлогодними орехами, как якорем. Водяной орех известен с древнейших времен – его скорлупки находятся даже в раскопках межледникового периода."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
@@ -36,7 +36,7 @@
       {
         "min": 1,
         "max": 5,
-        "chance": 0.9,
+        "chance": 0.875,
         "required": true,
         "item": "harvestcraft:waterchestnutitem",
         "meta": 0,

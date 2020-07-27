@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/cactusfruit_plant.json",
   "enabled": true,
   "id": "harvestcraft:cactusfruit_plant",
-  "plant_name": "Cactus Fruit",
-  "seed_name": "Cactus Fruit Seeds",
+  "plant_name": "Кактусовый фрукт",
+  "seed_name": "Семена кактусового фрукта",
   "seed_items": [
     {
       "item": "harvestcraft:cactusfruitseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Cactus Fruit Seeds."
+    "default": "Капуста белокочанная является представителем семейства крестоцветные. Форма у нее круглая, стебель высокий, листья плотные, завернутые во внутрь. Эту огородную культуру выращивают в разных уголках планеты. Ее едят в любом виде: свежей, квашеной, тушеной, жареной, вареной. Хороший урожай капусты получают в странах с умеренно прохладным климатом."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
@@ -36,7 +36,7 @@
       {
         "min": 1,
         "max": 5,
-        "chance": 0.9,
+        "chance": 0.875,
         "required": true,
         "item": "harvestcraft:cactusfruititem",
         "meta": 0,

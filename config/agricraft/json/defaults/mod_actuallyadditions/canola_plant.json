@@ -1,6 +1,6 @@
 {
   "path": "mod_actuallyadditions/canola_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "actuallyadditions:canola_plant",
   "plant_name": "Canola",
   "seed_name": "Canola Seeds",

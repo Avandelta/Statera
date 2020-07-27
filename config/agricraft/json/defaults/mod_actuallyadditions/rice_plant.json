@@ -1,6 +1,6 @@
 {
   "path": "mod_actuallyadditions/rice_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "actuallyadditions:rice_plant",
   "plant_name": "Rice",
   "seed_name": "Rice Seeds",

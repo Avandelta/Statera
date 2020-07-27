@@ -2,12 +2,12 @@
   "path": "vanilla/plants/orchid_plant.json",
   "enabled": true,
   "id": "vanilla:orchid_plant",
-  "plant_name": "Blue Orchid",
-  "seed_name": "Blue Orchid Seeds",
+  "plant_name": "Синяя орхидея",
+  "seed_name": "Семена синей орхидеи",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "A rarity by any measure."
+    "default": "В природе синяя орхидея не встречается, она может быть получена путём химической окраски или скрешивании нескольких орхидей. Синяя орхидея очень редкое и дорогое растение."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
@@ -25,7 +25,7 @@
       {
         "min": 1,
         "max": 1,
-        "chance": 0.75,
+        "chance": 0.725,
         "required": true,
         "item": "minecraft:dye",
         "meta": 12,
@@ -37,7 +37,7 @@
     ]
   },
   "requirement": {
-    "min_light": 10,
+    "min_light": 12,
     "max_light": 16,
     "soils": [
       "farmland_soil"
