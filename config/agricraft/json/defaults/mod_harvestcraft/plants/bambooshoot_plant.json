@@ -3,7 +3,7 @@
   "enabled": true,
   "id": "harvestcraft:bambooshoot_plant",
   "plant_name": "Побеги бамбука",
-  "seed_name": "Семена побеги бамбука",
+  "seed_name": "Семена побегов бамбука",
   "seed_items": [
     {
       "item": "harvestcraft:bambooshootseeditem",

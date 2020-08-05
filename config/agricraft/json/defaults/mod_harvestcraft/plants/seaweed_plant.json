@@ -3,7 +3,7 @@
   "enabled": true,
   "id": "harvestcraft:seaweed_plant",
   "plant_name": "Морская капуста",
-  "seed_name": "Семена морской капуста",
+  "seed_name": "Семена морской капусты",
   "seed_items": [
     {
       "item": "harvestcraft:seaweedseeditem",

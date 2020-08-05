@@ -3,7 +3,7 @@
   "enabled": false,
   "id": "mysticalagriculture:diamond_plant",
   "plant_name": "Алмазная культура",
-  "seed_name": "Семен алмаза",
+  "seed_name": "Семена алмаза",
   "seed_items": [
     {
       "item": "mysticalagriculture:diamond_seeds",

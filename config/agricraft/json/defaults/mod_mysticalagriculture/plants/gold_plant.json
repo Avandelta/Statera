@@ -3,7 +3,7 @@
   "enabled": false,
   "id": "mysticalagriculture:gold_plant",
   "plant_name": "Золотая культура",
-  "seed_name": "Семена культура",
+  "seed_name": "Семена золота",
   "seed_items": [
     {
       "item": "mysticalagriculture:gold_seeds",

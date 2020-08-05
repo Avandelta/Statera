@@ -3,7 +3,7 @@
   "enabled": true,
   "id": "harvestcraft:oats_plant",
   "plant_name": "Овсянка",
-  "seed_name": "Семена овсянка",
+  "seed_name": "Семена овсянки",
   "seed_items": [
     {
       "item": "harvestcraft:oatsseeditem",

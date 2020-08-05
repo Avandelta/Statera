@@ -3,7 +3,7 @@
   "enabled": true,
   "id": "harvestcraft:okra_plant",
   "plant_name": "Окра",
-  "seed_name": "Семена окра",
+  "seed_name": "Семена окры",
   "seed_items": [
     {
       "item": "harvestcraft:okraseeditem",

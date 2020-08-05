@@ -3,7 +3,7 @@
   "enabled": true,
   "id": "harvestcraft:artichoke_plant",
   "plant_name": "Артишок",
-  "seed_name": "Семена артишок",
+  "seed_name": "Семена артишока",
   "seed_items": [
     {
       "item": "harvestcraft:artichokeseeditem",

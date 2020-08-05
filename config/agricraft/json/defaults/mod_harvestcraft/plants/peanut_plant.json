@@ -3,7 +3,7 @@
   "enabled": true,
   "id": "harvestcraft:peanut_plant",
   "plant_name": "Арахис",
-  "seed_name": "Семена арахис",
+  "seed_name": "Семена арахиса",
   "seed_items": [
     {
       "item": "harvestcraft:peanutseeditem",
