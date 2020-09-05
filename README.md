@@ -1,48 +1,11 @@
-# Statera
-![Лицензия](https://img.shields.io/github/license/Avandelta/Statera?label=%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&style=flat-square)
-![Размер](https://img.shields.io/github/repo-size/Avandelta/Statera?label=%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80&style=flat-square)
+## Statera's Repository
 
-## Версия
+## Packages
 
-![Последнее обновление](https://img.shields.io/github/last-commit/Avandelta/Statera?label=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&style=flat-square)
-![Выпуск](https://img.shields.io/github/v/release/Avandelta/Statera?include_prereleases&label=%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA&style=flat-square)
+![Version](https://img.shields.io/github/v/release/Avandelta/Statera?color=Yellow&include_prereleases&label=Release&style=for-the-badge)
 
-## Зависимости
+![Size](https://img.shields.io/github/repo-size/Avandelta/Statera?color=Orange&label=Size&style=for-the-badge)
 
-![forge](https://img.shields.io/badge/forge-14.23.5.2854-brightgreen?style=flat-square)
-![Optifine](https://img.shields.io/badge/Optifine-OptiFine%201.12.2%20HD%20U%20F6%20pre1-brightgreen?style=flat-square)
-![Версия](https://img.shields.io/badge/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F-1.0.5.4-green?style=flat-square)
+## Information
 
-## Предисловие
-
-Statera - игровая сборка смешанного направления, принадлежит жанру Techno-Magic и работает на версии forge-1.12.2-14.23.5.2854. Она ставит своей целью сбалансированное развитие магии и технологий: от эфира до автоматизации технологий.
-
-## Игровые особенности и механики
-
-Данная сборка ставит своей целью именно баланс между первоначальной автоматизацей труда (полу-автоматическое производство), дальнейшей модернизации данного процесса, где в конце ресурсы производятся на автоматическом уровне и появлении магических свойств из немагических, свойствах магии как в повседневной жизни, и можно ли вообще с этим как-то справляться. Она развивает этот вопрос при помощи взаимосвязи обычных растений и эволюции их в дальнейшем в магические, которые способны на трансмутацию, взаимодействие с другой материей и так далее.
-
-В отличие от обычных сборок - эта позволяет стабильно развиваться в отдельном направлении, не затягивая игровой процесс с другой стороны. Она позволяет игроку полноценно развиться в одной сфере, и пройтись по другой с доступом к технологиям из другой тематики прохождения, это и отделяет эту сборку от всех других - своим упором на баланс и разделение тематик.
-
-## Игровые стадии
-
-В целом, итоговые игровые стадии можно было поделить на 4 категории, но я решил вместо разделения каждой тематики игры (пути развития) на разные стадии, объединил их в одну, вторую, из-за чего итоговое количество сократилось до трёх:
-
-### Первая стадия: начало развития
-
-Данная сборка не требует от игрока обязательного изучения нескольких тематик на параллели, поэтому пользователь может сконцентрироваться либо на техническом, либо на магическом направлении, что позволит игроку разделять своё время на каждую модификацию. Здесь пользователь на некоторое время даже может забыть о магическом или техническом развитии и начать удолетворять первоначальные потребности в разной пище (из-за модификации [The Spice of Life](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life)), о местонахождении своей базы.
-
-### Вторая стадия: разделение на два пути
-
-При полноценном старте развития игры, пользователь может выбрать как параллельное изучение двух тематик игровой сборки, так и выбрать раздельное изучение направления модификаций: от этого итоговый результат не изменится, хотя прогресс развития может обернуться как положительной стороной, так и печальной, из-за неправильного выбора развития, так как ограниченность ресурсов может не позволять игроку свободно выбирать какую-либо тематику и он может быть принужден к изучению различных модификаций.
-
-### Третья стадия: финал развития
-
-Финальная стадия игры
-
-## Лицензирование и второстепенная информация
-
-![Количество модификаций](https://img.shields.io/badge/%D0%9A%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%BC%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B9-158%20(175)-green?style=flat-square)
-![Оптимизация](https://img.shields.io/badge/Оптимизация-A-green?style=flat-square)
-![Тяжесть](https://img.shields.io/badge/Тяжесть-56%-green?style=flat-square)
-
-Данная репозитория лицензируется в соотвествии с [GNU General Public License v2.0](https://github.com/Avandelta/Statera/blob/master/LICENSE)
+**Statera** - modpack of Techno-Magic genre. This mod-pack aims precisely at the balance between the initial automation of labor (semi-automatic production), further modernization of this process, where at the end resources are produced at an automatic level and the appearance of magical properties from non-magical ones, the properties of magic as in everyday life, and is it possible at all with somehow cope with it.
