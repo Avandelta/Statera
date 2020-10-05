@@ -21,7 +21,7 @@ If you want to see full mods list, just  check folder with mods.
 
 ## License
 
-This repository and modpack are licensed under [GNU General Public License v2.0](https://github.com/Avandelta/Statera/blob/master/LICENSE).
+This repository and modpack are licensed under [GNU General Public License v2.0](https://github.com/Avandelta/Statera/blob/main/LICENSE).
 
 ```LICENSE
                     GNU GENERAL PUBLIC LICENSE
