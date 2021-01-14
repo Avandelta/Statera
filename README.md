@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 
 If you want to download the source, you can use GitHub CLI:
 
-`gh repo clone Avandelta/Statera.`
+`gh repo clone Avandelta/Statera`
 
 If you want to download the release: follow this [tag](https://github.com/Avandelta/Statera/releases/latest/download/22fe345f0f1e5107ccd3677fe8d39936.zip).
 
