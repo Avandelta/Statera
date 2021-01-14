@@ -7,7 +7,7 @@
 ![Issues](https://img.shields.io/github/issues/Avandelta/Statera?logo=github&style=social)
 
 Statera is a pack filled to the brim of mods ranging from from tech to magic to even exploration. It's based on the same progress system as the famous [SevTech: Ages](https://www.curseforge.com/minecraft/modpacks/sevtech-ages).
-.
+
 For more information on content distribution or copyright, see the dedicated file.
 
 ## Prerequisites
